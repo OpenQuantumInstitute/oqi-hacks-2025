@@ -14,7 +14,7 @@ The OQI Hackathon is targeted at undergraduate and graduate students in STEM, ma
 2. **Enter Access Code**: Navigate to account.qbraid.com and click on Manage subscription. Enter the access code provided by the organizers in the "Access Key" field. This should provide you qBraid credits to use for the hackathon.
 3. **Development Environment**: 
    - Cloud: 
-     - Launch the [qBraid Lab]([https://docs.qbraid.com/lab/user-guide/getting-started](https://account.qbraid.com/?gitHubUrl=https://github.com/OpenQuantumInstitute/oqi-hacks-2025.git)) platform by clicking on the "[Launch on qBraid Lab](https://account.qbraid.com/?gitHubUrl=https://github.com/OpenQuantumInstitute/oqi-hacks-2025.git)" button 
+     - Launch the[qBraid Lab](https://docs.qbraid.com/lab/user-guide/getting-started)  platform by clicking on the "[Launch on qBraid Lab](https://account.qbraid.com/?gitHubUrl=https://github.com/OpenQuantumInstitute/oqi-hacks-2025.git)" button 
      - Navigate to the "Environment Manager Extension" in the right sidebar and click on "Add"
      - Search and install the "qBraid-SDK" environment 
      - See qBraid documentation for more details on [installing Environments](https://docs.qbraid.com/lab/user-guide/environments#install-environment).
